@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Outlander Plugins",
+        "repositoryURL": "https://github.com/outlander-app/plugin-package.git",
+        "state": {
+          "branch": "main",
+          "revision": "a457ac24c6334e5c219320250160ada2c7aea22d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
